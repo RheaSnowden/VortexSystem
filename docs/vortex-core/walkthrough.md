@@ -30,8 +30,8 @@ The cycle repeats continuously, with the thermosiphon (heat-driven draft) and gr
 
 For deeper details on any part of the cycle, see:
 - [Hydro / Canal & Basin Design](canal-basin-design.md)
-- [Sleeve Design & Mechanics](sleeves.md)
-- [Tunnel Construction & Layout Variants](tunnel-layouts.md)
-- [Heat Transfer & Cascading Loops](heat-loops.md)
-- [Reservoir & Water Balance](reservoir-balance.md)
+- [Sleeve Design & Mechanics](hydro-sleeves.md)
+- [Tunnel Construction & Layout Variants](tunnel-construction-layouts.md)
+- [Heat Transfer & Cascading Loops](cascading-heat.md)
+- [Reservoir & Water Balance](reservoir-upper-loop.md)
 - [Maintenance & Safety](maintenance-safety.md)
