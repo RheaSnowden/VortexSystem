@@ -47,4 +47,5 @@ Contributions welcome under Apache 2.0.
 ---
 
 **Previous**: [README](../../README.md)
+**Index**[-Index-](../../Index.md)
 **Next**: [How It Works](how-it-works.md)
