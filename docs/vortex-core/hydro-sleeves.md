@@ -33,5 +33,6 @@ Hydro sleeves extract energy from the downward liquid flow in the lower tunnel s
 
 Related sections:
 - [Canal & Basin Design](canal-basin-design.md)
+- [Steam Sleeves](steam-sleeves.md)
 - [Driveshaft & Generator Linking](driveshaft-generator.md)
 - [Maintenance & Safety](maintenance-safety.md)
