@@ -32,6 +32,6 @@ Hydro sleeves extract energy from the downward liquid flow in the lower tunnel s
 - Easy maintenance and scalability.
 
 Related sections:
-- [Canal & Basin Design](../canal-basin-design.md)
+- [Canal & Basin Design](canal-basin-design.md)
 - [Driveshaft & Generator Linking](driveshaft-generator.md)
 - [Maintenance & Safety](maintenance-safety.md)
