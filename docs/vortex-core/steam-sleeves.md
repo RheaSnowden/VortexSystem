@@ -35,6 +35,6 @@ Rising steam (driven by thermosiphon and condensation vacuum) passes through the
 - Strong synergy with the overall distributed philosophy of VORTEX.
 
 Related sections:
-- [Cascading Heat Transfer](../cascading-heat.md)
-- [Tunnel Construction & Layouts](tunnel-layouts.md)
+- [Cascading Heat Transfer](cascading-heat.md)
+- [Tunnel Construction & Layouts](tunnel-construction-layouts.md)
 - [Maintenance & Safety](maintenance-safety.md)
