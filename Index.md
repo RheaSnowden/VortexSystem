@@ -27,5 +27,10 @@
 
 -[Conclusion](docs/vortex-core/Conclusion.md)
 
-# Other project links that utilize Vortex System
+# Other Links
 - To be added later
+
+-ImageGallery
+
+-Honeycomb Arcology system
+
