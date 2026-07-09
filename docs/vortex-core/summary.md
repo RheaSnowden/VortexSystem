@@ -46,5 +46,5 @@ Contributions welcome under Apache 2.0.
 
 ---
 
-**Previous**: [None]  
-**Next**: [How It Works](../how-it-works.md)
+**Previous**:  [Readme](VortexSystem/README.md)
+**Next**: [How It Works](how-it-works.md)
