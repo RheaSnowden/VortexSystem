@@ -7,6 +7,8 @@ VORTEX turns industrial and residential waste heat into electricity while enabli
 
 [View Full Summary →](docs/vortex-core/summary.md)
 
+[Index](Index.md)
+
 ## Key Features
 - Distributed sleeve turbines for high availability and easy maintenance
 - Closed-loop water and heat recycling
