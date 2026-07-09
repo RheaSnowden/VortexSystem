@@ -46,5 +46,5 @@ Contributions welcome under Apache 2.0.
 
 ---
 
-**Previous**: [Readme,entry](README.md)
+**Previous**: [README](../../README.md)
 **Next**: [How It Works](how-it-works.md)
