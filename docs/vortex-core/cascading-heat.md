@@ -35,5 +35,5 @@ Combustion provides high-temperature heat + pure water regeneration.
 For visuals, see `/images/vortex/`.
 
 Related sections:
-- [Reservoir & Water Balance](reservoir-balance.md)
-- [Tunnel & Basin Design](canal-basin-design.md)
+- [Reservoir & Water Balance](reservoir-upper-loop.md)
+- [Canal & Basin Design](canal-basin-design.md)
