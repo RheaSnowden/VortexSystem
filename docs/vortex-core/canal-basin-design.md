@@ -32,6 +32,6 @@ The canal and basin system manages downward water flow, surge protection, heat e
 - Modular and controllable for stable operation across varying heat inputs.
 
 Related sections:
-- [Cascading Heat Transfer](../cascading-heat.md)
+- [Cascading Heat Transfer](cascading-heat.md)
 - [Hydro Sleeves](hydro-sleeves.md)
 - [Reservoir & Upper Loop](reservoir-upper-loop.md)
