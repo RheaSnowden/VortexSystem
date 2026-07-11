@@ -25,4 +25,4 @@ Routine maintenance is designed to be a normal, non-disruptive activity rather t
 
 **Previous**: [Vortex Tunnel](tunnel-construction-layouts.md)
 **Index**[-Index-](../../Index.md)
-**Next**: [Power-integration](docs/vortex-core/power-integration.md)
+**Next**: [Power-integration](power-integration.md)
