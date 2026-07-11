@@ -76,6 +76,6 @@ This architecture makes the cascade loop a true thermal utility network — flex
 
 ---
 
-**Previous**: [cascading-heat.md](.../cascading-heat.md)
+**Previous**: [cascading-heat](../cascading-heat.md)
 **Index**[-Index-](../../../Index.md)
 **Next**: [Reservoir](../reservoir-upper-loop.md)
