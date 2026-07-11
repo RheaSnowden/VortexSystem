@@ -28,6 +28,6 @@ The result is a continuous, self-sustaining loop that produces power while recyc
 
 ---
 
-**Previous**: [Summary](docs/vortex-core/summary.md) 
+**Previous**: [Summary](summary.md) 
 **Index** [-Index-](../../Index.md)
-**Next**: [Walkthrough](docs/vortex-core/walkthrough.md) 
+**Next**: [Walkthrough](walkthrough.md) 
