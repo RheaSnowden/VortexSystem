@@ -26,6 +26,8 @@ The result is a continuous, self-sustaining loop that produces power while recyc
 - **Multi-Use** — Produces both electricity and usable heat.
 - **Scalable** — Works from single tunnels to large arcology or industrial park networks.
 
+---
+
 **Previous**: [Summary](docs/vortex-core/summary.md) 
 **Index** [-Index-](../../Index.md)
 **Next**: [Walkthrough](docs/vortex-core/walkthrough.md) 
