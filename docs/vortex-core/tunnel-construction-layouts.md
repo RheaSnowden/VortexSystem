@@ -43,7 +43,8 @@ The VORTEX tunnel is the structural and functional backbone of the system. It ca
 - Allows vertical and horizontal scaling.
 - Supports both compact high-density and long linear deployments.
 
-Related sections:
-- [Canal & Basin Design](../canal-basin-design.md)
-- [Steam Sleeves](steam-sleeves.md)
-- [Hydro Sleeves](hydro-sleeves.md)
+---
+
+**Previous**: [Steam-sleeve turbines](steam-sleeves.md)
+**Index**[-Index-](../../Index.md)
+**Next**: [Maintenance-safety](maintenance-safety.md)
