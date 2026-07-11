@@ -28,10 +28,9 @@ The cycle repeats continuously, with the thermosiphon (heat-driven draft) and gr
 - **Flexible heat sources** — can accept steam, hot water, or direct heat at multiple points.
 - **High resilience** — sections can be isolated for maintenance while the rest continues operating.
 
-For deeper details on any part of the cycle, see:
-- [Hydro / Canal & Basin Design](canal-basin-design.md)
-- [Sleeve Design & Mechanics](hydro-sleeves.md)
-- [Tunnel Construction & Layout Variants](tunnel-construction-layouts.md)
-- [Heat Transfer & Cascading Loops](cascading-heat.md)
-- [Reservoir & Water Balance](reservoir-upper-loop.md)
-- [Maintenance & Safety](maintenance-safety.md)
+---
+
+**Previous**: [How It Works](how-it-works.md)
+**Index**[-Index-](../../Index.md)
+**Next**: [Cascade-heat](cascading-heat.md)
+
