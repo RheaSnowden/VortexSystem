@@ -34,7 +34,8 @@ Rising steam (driven by thermosiphon and condensation vacuum) passes through the
 - Modular and adaptable to different steam conditions.
 - Strong synergy with the overall distributed philosophy of VORTEX.
 
-Related sections:
-- [Cascading Heat Transfer](cascading-heat.md)
-- [Tunnel Construction & Layouts](tunnel-construction-layouts.md)
-- [Maintenance & Safety](maintenance-safety.md)
+---
+
+**Previous**: [Hydro-sleeve turbines](hydro-sleeves.md)
+**Index**[-Index-](../../Index.md)
+**Next**: [Vortex Tunnel](tunnel-construction-layouts.md)
