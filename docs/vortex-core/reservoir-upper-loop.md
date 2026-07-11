@@ -23,6 +23,8 @@ The entire surface area of the covered pre-staging zone is utilized for heat exc
 - Keeps most heat productive inside the system.
 - Provides operational flexibility and resilience.
 
-Related sections:
-- [Cascading Heat Transfer](cascading-heat.md)
-- [Canal & Basin Design](canal-basin-design.md)
+---
+
+**Previous**: [Cascade-heat](cascading-heat.md)
+**Index**[-Index-](../../Index.md)
+**Next**: [Canal-basin](canal-basin-design.md)
