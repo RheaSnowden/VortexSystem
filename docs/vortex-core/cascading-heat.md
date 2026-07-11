@@ -33,7 +33,7 @@ Combustion provides high-temperature heat + pure water regeneration.
 - Highly controllable and adaptable to diverse sources.
 
 For detailed architecture, sub-circuits, reservoirs, options, and considerations, see 
-[Cascade Heat Loop – Detailed Technical](/detailed/cascading-heat-loop-detailed.md)
+[Cascade Heat Loop – Detailed Technical](/detailed/cascading-heat-detailed.md)
 
 
 ---
