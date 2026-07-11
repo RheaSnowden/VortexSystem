@@ -29,6 +29,8 @@ Power output depends on head, flow rate, heat input grade, and efficiency.
 
 These are order-of-magnitude estimates. Real performance requires site-specific modeling. A minimum heat/steam threshold is needed to sustain natural thermosiphon without significant pumping.
 
-Related sections:
-- [Cascading Heat Transfer](cascading-heat.md)
-- [Ringed Nuclear Configuration](ringed-nuclear.md) (planned)
+---
+
+**Previous**: [Maintenance-safety](maintenance-safety.md)
+**Index**[-Index-](../../Index.md)
+**Next**: [Conclusion] conclusion.md
