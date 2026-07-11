@@ -32,8 +32,8 @@ Combustion provides high-temperature heat + pure water regeneration.
 - Self-reinforcing: more heat → more power → more potential electrolysis/H₂ heat.
 - Highly controllable and adaptable to diverse sources.
 
-For visuals, see `/images/vortex/`.
+---
 
-Related sections:
-- [Reservoir & Water Balance](reservoir-upper-loop.md)
-- [Canal & Basin Design](canal-basin-design.md)
+**Previous**: [Walkthrough](walkthrough.md)
+**Index**[-Index-](../../Index.md)
+**Next**: [Reservoir](reservoir-upper-loop.md)
