@@ -31,7 +31,8 @@ The canal and basin system manages downward water flow, surge protection, heat e
 - Distributed heat exchange surface for efficient evaporation.
 - Modular and controllable for stable operation across varying heat inputs.
 
-Related sections:
-- [Cascading Heat Transfer](cascading-heat.md)
-- [Hydro Sleeves](hydro-sleeves.md)
-- [Reservoir & Upper Loop](reservoir-upper-loop.md)
+---
+
+**Previous**: [Reservoir](reservoir-upper-loop.md)
+**Index**[-Index-](../../Index.md)
+**Next**: [Hydro-sleeve turbines](hydro-sleeves.md)
