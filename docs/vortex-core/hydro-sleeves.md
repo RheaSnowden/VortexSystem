@@ -31,8 +31,8 @@ Hydro sleeves extract energy from the downward liquid flow in the lower tunnel s
 - Distributed extraction reduces single-point failure risk.
 - Easy maintenance and scalability.
 
-Related sections:
-- [Canal & Basin Design](canal-basin-design.md)
-- [Steam Sleeves](steam-sleeves.md)
-- [Driveshaft & Generator Linking](driveshaft-generator.md)
-- [Maintenance & Safety](maintenance-safety.md)
+---
+
+**Previous**: [Canal-basin](canal-basin-design.md)
+**Index**[-Index-](../../Index.md)
+**Next**: [Steam-sleeve turbines](steam-sleeves.md)
