@@ -23,6 +23,9 @@ The entire surface area of the covered pre-staging zone is utilized for heat exc
 - Keeps most heat productive inside the system.
 - Provides operational flexibility and resilience.
 
+For detailed reservoir, options, and considerations, see 
+[reservoir-upper-loop– Detailed Technical](detailed/reservoir-upper-loop-detailed.md)
+
 ---
 
 **Previous**: [Cascade-heat](cascading-heat.md)
