@@ -21,8 +21,8 @@ VORTEX is designed for high availability and safe, efficient maintenance through
 ### Operational Philosophy
 Routine maintenance is designed to be a normal, non-disruptive activity rather than a major shutdown event. The modular, extractable nature of the sleeves and the rail + crane system make this practical even at scale (hundreds of sleeves per mile).
 
-Related sections:
-- [Hydro Sleeves](hydro-sleeves.md)
-- [Steam Sleeves](steam-sleeves.md)
-- [Tunnel Construction & Layouts](tunnel-construction-layouts.md)
-- [Canal & Basin Design](canal-basin-design.md)
+---
+
+**Previous**: [Vortex Tunnel](tunnel-construction-layouts.md)
+**Index**[-Index-](../../Index.md)
+**Next**: [Power-integration](docs/vortex-core/power-integration.md)
