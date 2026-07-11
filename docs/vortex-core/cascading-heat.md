@@ -32,6 +32,10 @@ Combustion provides high-temperature heat + pure water regeneration.
 - Self-reinforcing: more heat → more power → more potential electrolysis/H₂ heat.
 - Highly controllable and adaptable to diverse sources.
 
+For detailed architecture, sub-circuits, reservoirs, options, and considerations, see 
+[Cascade Heat Loop – Detailed Technical](/detailed/cascading-heat-loop-detailed.md)
+
+
 ---
 
 **Previous**: [Walkthrough](walkthrough.md)
