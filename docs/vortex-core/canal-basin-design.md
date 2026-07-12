@@ -32,7 +32,7 @@ The canal and basin system manages downward water flow, surge protection, heat e
 - Modular and controllable for stable operation across varying heat inputs.
 
 For detailed options, mechanics and considerations, see 
-[canal-basin-details](detailed/canal-basin-designs-detailed.md)
+[canal-basin-details](detailed/canal-basin-design-detailed.md)
 
 ---
 
