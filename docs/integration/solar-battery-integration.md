@@ -36,7 +36,7 @@ Exact yields depend on location, tunnel orientation, and panel technology. Longe
 - **Space habitats**: Solar arrays on habitat structures feed both power and heat into the VORTEX thermal management system.
 
 ## Example Integration
-See the [Plant Bowen Hypothetical](../vortex-core/detailed/plant-bowen-example.md) and [Waste-Heat-Only Industrial Hub](../vortex-core/detailed/waste-heat-only-industrial-hub.md) for worked scenarios that include solar + battery contributions.
+See the [Plant Bowen Hypothetical](plant-bowen-example.md) and [Waste-Heat-Only Industrial Hub](waste-heat-only-industrial-hub.md) for worked scenarios that include solar + battery contributions.
 
 ## Implementation Notes
 - Structural engineering needed for mounting loads and wind.
