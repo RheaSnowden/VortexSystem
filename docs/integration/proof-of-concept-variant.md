@@ -73,6 +73,9 @@ This comparison illustrates that multiple viable paths exist. The VORTEX system 
 
 ---
 
-**Return**: [Power-integration](../power-integration.md)
-**Index**[-Index-](../../../Index.md)
-**Next**: [Plant Bowen example](plant-bowen-example.md)
+
+**Index**[-Index-](../../Index.md)
+
+**Related Pages**  
+← [Back to Power Integration](../vortex-core/power-integration.md)  
+[Solar + Battery Integration](solar-battery-integration.md) | [Plant Bowen Example](plant-bowen-example.md) | [Proof-of-Concept Variant](proof-of-concept-variant.md)
