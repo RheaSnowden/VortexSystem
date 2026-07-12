@@ -85,5 +85,5 @@ All examples in this section demonstrate different ways the same core VORTEX arc
 
 **Related Pages**  
 ← [Back to Power Integration](../vortex-core/power-integration.md)  
-[Solar + Battery Integration](solar-battery-integration.md) | [Waste-Heat-Only Hub](waste-heat-only-industrial-hub.md) | [Proof-of-Concept Variant](proof-of-concept-variant.md)
+[Solar + Battery Integration](solar-battery-integration.md) | [Plant Bowen Example](plant-bowen-example.md) | [Proof-of-Concept Variant](proof-of-concept-variant.md)
 
