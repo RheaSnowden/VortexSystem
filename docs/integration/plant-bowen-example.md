@@ -102,5 +102,5 @@ All formulas and assumptions are explicit. Changing total heat input, sleeve eff
 
 **Related Pages**  
 ← [Back to Power Integration](../vortex-core/power-integration.md)  
-[Plant Bowen Example](plant-bowen-example.md) | [Waste-Heat-Only Hub](waste-heat-only-industrial-hub.md) | [Proof-of-Concept Variant](proof-of-concept-variant.md)
+[Solar + Battery Integration](solar-battery-integration.md) | [Waste-Heat-Only Hub](waste-heat-only-industrial-hub.md) | [Proof-of-Concept Variant](proof-of-concept-variant.md)
 
