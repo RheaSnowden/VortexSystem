@@ -31,6 +31,9 @@ The canal and basin system manages downward water flow, surge protection, heat e
 - Distributed heat exchange surface for efficient evaporation.
 - Modular and controllable for stable operation across varying heat inputs.
 
+For detailed options, mechanics and considerations, see 
+[canal-basin-details](detailed/canal-basin-designs-detailed.md)
+
 ---
 
 **Previous**: [Reservoir](reservoir-upper-loop.md)
