@@ -46,3 +46,9 @@ See the [Plant Bowen Hypothetical](../vortex-core/detailed/plant-bowen-example.m
 This integration makes VORTEX an even more attractive foundation for sustainable industrial and regional energy systems.
 
 ---
+
+**Index**[-Index-](../../Index.md)
+
+**Related Pages**  
+← [Back to Power Integration](../vortex-core/power-integration.md)  
+[Plant Bowen Example](plant-bowen-example.md) | [Waste-Heat-Only Hub](waste-heat-only-industrial-hub.md) | [Proof-of-Concept Variant](proof-of-concept-variant.md)
