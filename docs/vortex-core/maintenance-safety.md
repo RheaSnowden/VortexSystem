@@ -18,8 +18,20 @@ VORTEX is designed for high availability and safe, efficient maintenance through
 - **Emergency Protocols**: Manual overrides, backup power for controls, and safe depressurization procedures.
 - **Below-Sea-Level Capability**: Fully controlled water entry allows safe deep tunneling without flooding risk.
 
+### Unique Hazards & Mitigations
+- Hot/steam environment: High-temperature materials, insulation, and monitoring.
+- Hydrogen injection: Leak detection, proper venting, and isolation valves.
+- Pressure & flow: Relief systems, sensors, and basin valves for control.
+- Thermal priming phase: Gradual warmup protocols.
+
+### Recommended Practices
+- Follow established industry standards (lockout/tagout, harness anchor points, corrosion monitoring, pressure safety, electrical codes, etc.).
+- Comprehensive CFD modeling, prototype testing, and phased commissioning.
+- Regular inspection of magnetic couplings, seals, drainage systems, and thermal piping.
+
 ### Operational Philosophy
 Routine maintenance is designed to be a normal, non-disruptive activity rather than a major shutdown event. The modular, extractable nature of the sleeves and the rail + crane system make this practical even at scale (hundreds of sleeves per mile).
+Professional engineering review and compliance with all applicable codes is essential.
 
 ---
 
