@@ -76,6 +76,11 @@ The sleeve concept can be reversed: driving the external cog turns the sleeve in
 
 The hydro sleeve is the primary mechanical heart of the VORTEX system — a modular, maintainable, and potentially reversible component that turns distributed low-head flow into usable rotational energy.
 
+
+<img src="../../../images/vortex/Hydro Sleeve concept art.jpg" alt="Hydro Sleeve concept art" width="500" style="display: block; margin: 20px auto;">
+
+<img src="../../../images/vortex/Hydro Sleeve concept art (2).jpg" alt="Hydro Sleeve concept art 2" width="500" style="display: block; margin: 20px auto;">
+
 ---
 
 **Previous**: [Hydro-sleeves](../hydro-sleeves.md)
