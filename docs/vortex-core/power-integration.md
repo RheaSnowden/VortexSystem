@@ -32,14 +32,14 @@ Uses commercially available watermills/in-pipe hydro turbines and conventional l
 **Advanced Conceptual Variant (Optimized Sleeves)**  
 Uses purpose-designed hydro and steam sleeves for higher projected efficiency and power density. This path offers greater performance potential but requires development and testing of the sleeve technology.
 
-See the dedicated [Proof-of-Concept Variant page](proof-of-concept-variant.md) for details and comparison.
+See the dedicated [Proof-of-Concept Variant page](detailed/proof-of-concept-variant.md) for details and comparison.
 
 ## Example Scenarios
 The following worked examples illustrate how VORTEX power integration can be applied in different real-world contexts. All examples share the same core architecture and can reference each other.
 
-- **[Plant Bowen Hypothetical](plant-bowen-example.md)** — Large coal plant with low-pressure steam injection + waste heat, data center, solar, and H₂ boost. Shows both conservative and optimistic ranges.
-- **[Waste-Heat-Only Industrial Hub](waste-heat-only-industrial-hub.md)** — Fully circular regional system using only waste heat from steel mills, heavy industry, recycling systems, and data centers. Emphasizes endless waterfall mode, shared central reservoir, underground sections, solar + battery integration, and the H₂ loop. No maximum size limit — simply add more tunnels.
-- **[Proof-of-Concept Variant](proof-of-concept-variant.md)** — Comparison of proven technology vs. advanced sleeves using the Bowen scenario as a reference.
+- **[Plant Bowen Hypothetical](detailed/plant-bowen-example.md)** — Large coal plant with low-pressure steam injection + waste heat, data center, solar, and H₂ boost. Shows both conservative and optimistic ranges.
+- **[Waste-Heat-Only Industrial Hub](detailed/waste-heat-only-industrial-hub.md)** — Fully circular regional system using only waste heat from steel mills, heavy industry, recycling systems, and data centers. Emphasizes endless waterfall mode, shared central reservoir, underground sections, solar + battery integration, and the H₂ loop. No maximum size limit — simply add more tunnels.
+- **[Proof-of-Concept Variant](detailed/proof-of-concept-variant.md)** — Comparison of proven technology vs. advanced sleeves using the Bowen scenario as a reference.
 
 These examples demonstrate the flexibility of the VORTEX concept across different heat-source profiles and risk tolerances.
 
@@ -76,11 +76,11 @@ Key variables that can be adjusted:
 - Steam diversion (where used) must be balanced against the original heat source’s own generation needs.
 
 ## Related Pages
-- [Proof-of-Concept Variant using Proven Technology](proof-of-concept-variant.md)
-- [Plant Bowen Hypothetical](plant-bowen-example.md)
-- [Waste-Heat-Only Industrial Hub](waste-heat-only-industrial-hub.md)
-- [Cascading Heat Transfer System](../cascading-heat.md)
-- [How It Works](../how-it-works.md)
+- [Proof-of-Concept Variant using Proven Technology](detailed/proof-of-concept-variant.md)
+- [Plant Bowen Hypothetical](detailed/plant-bowen-example.md)
+- [Waste-Heat-Only Industrial Hub](detailed/waste-heat-only-industrial-hub.md)
+- [Cascading Heat Transfer System](cascading-heat.md)
+- [How It Works](how-it-works.md)
 
 ---
 
