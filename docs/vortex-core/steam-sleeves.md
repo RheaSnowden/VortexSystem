@@ -34,6 +34,9 @@ Rising steam (driven by thermosiphon and condensation vacuum) passes through the
 - Modular and adaptable to different steam conditions.
 - Strong synergy with the overall distributed philosophy of VORTEX.
 
+For detailed options, mechanics and considerations, see 
+[Steam-sleeves-details](detailed/steam-sleeves-detailed.md)
+
 ---
 
 **Previous**: [Hydro-sleeve turbines](hydro-sleeves.md)
