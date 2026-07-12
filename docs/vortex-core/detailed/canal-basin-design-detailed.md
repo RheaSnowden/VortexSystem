@@ -64,6 +64,7 @@ This modular approach minimizes downtime, allows material upgrades, and avoids t
 - Cushioned sleeve exit and pre-rotation improve efficiency and durability.
 - Gradual transitions minimize energy loss and turbulence.
 
+<img src="../../images/vortex/Water flow details.png" alt="Water flow details" width="500" style="display: block; margin: 20px auto;">
 
 ---
 
