@@ -78,4 +78,4 @@ This comparison illustrates that multiple viable paths exist. The VORTEX system 
 
 **Related Pages**  
 ← [Back to Power Integration](../vortex-core/power-integration.md)  
-[Solar + Battery Integration](solar-battery-integration.md) | [Plant Bowen Example](plant-bowen-example.md) | [Proof-of-Concept Variant](proof-of-concept-variant.md)
+[Solar + Battery Integration](solar-battery-integration.md) | [Plant Bowen Example](plant-bowen-example.md) | [Waste-Heat-Only Hub](waste-heat-only-industrial-hub.md)
