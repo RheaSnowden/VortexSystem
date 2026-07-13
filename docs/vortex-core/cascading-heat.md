@@ -2,39 +2,36 @@
 
 The cascading heat loops are the circulatory system of VORTEX. They collect, upgrade, distribute, and recover heat at multiple temperature grades while driving the thermosiphon.
 
-### Overall Heat Flow Philosophy
+## Overall Heat Flow Philosophy
 Heat is added at the highest practical grade and progressively stepped down. Most heat is spent productively inside the tunnel (evaporation, steam generation, basin boiling). Only residual low-grade heat reaches final polishing.
 
-### Primary Thermal Fluid Loop
-A high-temperature heat transfer fluid (specialized oils, molten salts, etc.) circulates in insulated piping:
+## Primary Thermal Fluid Loop
+A high-temperature heat transfer fluid (specialized oils, molten salts, etc.) circulates in insulated piping through a network of relay hubs:
 
-1. **Return from Reservoir** (~60–75°C)
-2. **Low-Grade Hub** — Picks up low-temperature waste heat.
-3. **Mid-Grade Hub** — Absorbs medium-temperature sources.
-4. **High-Grade Hub** — Receives hottest inputs (nuclear, H₂ combustion, concentrated solar).
-5. **Tunnel & Basins** — Delivers the majority of its heat into canals and stepped basins.
-6. **Reservoir Polish** — Final conditioning before the cycle repeats.
+1. Return from reservoir (~60–75°C)
+2. Low-grade hub — picks up low-temperature waste heat
+3. Mid-grade hub — absorbs medium-temperature sources
+4. High-grade hub — receives the hottest inputs (nuclear, H₂ combustion, concentrated solar, industrial process heat)
+5. Tunnel & basins — delivers the majority of its heat into the stepped basins and canals
+6. Reservoir polish — final conditioning before the cycle repeats
 
-**Piping Details**:
-- Routed in dedicated utility corridors beneath or within the tunnel floor (separate from water/steam flow).
-- Embedded, double-insulated runs with quick-connect fittings and segment valves for safe isolation and replacement.
-- Basin integration via high-thermal-conductivity metal plates lining the stepped tubs or direct plug-in ports.
+Piping runs in dedicated utility corridors beneath or within the tunnel floor, with double insulation, quick-connect fittings, and segment valves for safe isolation.
 
-### Hydrogen Loop Integration
-Excess electricity powers electrolysis. Produced hydrogen is routed through the thermal loop (or dedicated exchanger) to absorb as much heat as possible before combustion. Superheated H₂ is injected strategically:
-- High-grade points for strong thermosiphon boost.
-- Directly into stepped basins for localized evaporation.
+Basin integration occurs via high-thermal-conductivity plates or direct plug-in ports.
 
-Combustion provides high-temperature heat + pure water regeneration.
+## Hydrogen Loop Integration
+Excess electricity powers off-site electrolysis. The resulting hydrogen is routed through the main high-grade hubs (200–280°C) for pre-heating, then injected and burned at strategic points along the tunnels or directly into the stepped basins. This provides high-temperature boost, pure water regeneration, and additional combustion energy.
 
-### Benefits
-- Maximizes exergy from each temperature grade.
-- Self-reinforcing: more heat → more power → more potential electrolysis/H₂ heat.
-- Highly controllable and adaptable to diverse sources.
+## Benefits
+- Maximizes exergy from each temperature grade
+- Self-reinforcing cycle (more heat → more power → more potential H₂ boost)
+- Highly adaptable to diverse waste heat sources
+- Works with both straight tunnels and looped/ringed configurations (including endless waterfall mode with a central shared reservoir)
 
-For detailed architecture, sub-circuits, reservoirs, options, and considerations, see 
-[Cascade Heat Loop – Detailed Technical](detailed/cascade-heat-detailed.md)
+For deeper technical details on architecture, hub design, flow behavior, integration with tunnel geometry, and operational modes, see the [detailed technical page](detailed/cascade-heat-detailed.md).
 
+**Related Examples**  
+[Plant Bowen Hypothetical](../power-integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../power-integration/waste-heat-only-industrial-hub.md)
 
 ---
 
