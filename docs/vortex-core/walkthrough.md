@@ -30,7 +30,7 @@ The cycle repeats continuously, with the thermosiphon (heat-driven draft) and gr
 
 ---
 
-**Previous**: [power-integration](power-intergration.md)
+**Previous**: [Power-integration](power-integration.md)
 **Index**[-Index-](../../Index.md)
 **Next**: [Cascade-heat](cascading-heat.md)
 
