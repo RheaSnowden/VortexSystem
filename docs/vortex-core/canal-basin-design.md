@@ -1,38 +1,25 @@
 # Canal & Basin Design
 
-The canal and basin system manages downward water flow, surge protection, heat exchange, and evaporation control in the lower tunnel sections.
+The stepped basins and canals are the heart of heat transfer and evaporation in the VORTEX tunnel.
 
-### Main Canals
-- Sloped at 30–45° for reliable gravity drive.
-- Dedicated canals per hydro sleeve (in V-formation layouts: 6 main canals per 150 ft section).
-- Gradual transition from open half-pipe (wider for spreading and heat exchange) to funnel → full enclosure before sleeve entry (75% steady width post-funnel for velocity increase and pre-rotation).
-- Pre-rotation grooves in the transition zone help start sleeve spin efficiently.
+## Basic Design
+Stepped basins act as localized “boilers” along the tunnel. Heat from the thermal fluid loop is delivered via high-conductivity plates or direct ports, causing controlled evaporation. Basins overflow into the next stage or into the main canals, maintaining water levels and flow.
 
-### Overflow Canals
-- Shallower slope (15–20°) than main canals.
-- Start lower and end higher for smooth return and jet cushioning after hydro sleeves.
-- Shared spillover design reduces capacity needs while preventing flooding.
+Main canals (≈2 m wide in the standard design) feed the hydro sleeves. Each main canal has an associated overflow return (deeper/narrower for cushioning and return flow).
 
-### Stepped Basins
-- 4 basins per section in typical V-formation layouts.
-- Deeper, slower-flow zones positioned lower at the start and higher near sleeves.
-- Lined with high-thermal-conductivity plates or direct pipe interfaces for enhanced heat transfer and localized “boiling pot” evaporation.
-- Automatic cascading at overflow points.
-- Valve-equipped lower walls allow controlled diversion from overflow into basins or early extraction.
-- Direct-flow pipes from maintenance tunnel for precise makeup water addition.
+## Key Features
+- **Pre-rotation grooves/fins** in the 30° to 0° transition zone into the hydro sleeve improve flow alignment and efficiency.
+- **Overflow returns** act as landing cushions for post-sleeve discharge and help with mass balance.
+- **Level control** in basins ensures stable evaporation and prevents flooding or dry-out.
+- **Passive effects** (subtle but important): Gravity-driven overflow, localized boiling, flow smoothing, and heat distribution at different grades.
 
-### Flow Control & Balance
-- Starter flow introduced into all main canals and overflows during initial priming.
-- Once running, flow rates are dynamically adjusted via valves and basin controls to match condensation return and maintain balance.
-- The system can operate in near full-evaporation mode (minimal liquid reaching the bottom) for deep tunneling applications.
+## Integration with the Overall System
+Basins are where the cascading thermal loop meets the working fluid. In looped configurations they support the endless waterfall mode with a central reservoir.
 
-### Benefits
-- Excellent surge protection and level management.
-- Distributed heat exchange surface for efficient evaporation.
-- Modular and controllable for stable operation across varying heat inputs.
+For detailed geometry, passive effects, and design rationale, see the [detailed technical page](detailed/canal-basin-detailed.md) , or the tunnel cross-section diagrams.
 
-For detailed options, mechanics and considerations, see 
-[canal-basin-details](detailed/canal-basin-design-detailed.md)
+**Related Examples**  
+[Plant Bowen Hypothetical](../integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../integration/waste-heat-only-industrial-hub.md)
 
 ---
 
