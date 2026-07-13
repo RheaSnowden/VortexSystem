@@ -31,7 +31,7 @@ Excess electricity powers off-site electrolysis. The resulting hydrogen is route
 For deeper technical details on architecture, hub design, flow behavior, integration with tunnel geometry, and operational modes, see the [detailed technical page](detailed/cascade-heat-detailed.md).
 
 **Related Examples**  
-[Plant Bowen Hypothetical](../power-integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../power-integration/waste-heat-only-industrial-hub.md)
+[Plant Bowen Hypothetical](../integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../integration/waste-heat-only-industrial-hub.md)
 
 ---
 
