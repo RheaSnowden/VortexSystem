@@ -5,11 +5,11 @@
 
 -[Summary](docs/vortex-core/summary.md)
 
+-[Walkthrough](docs/vortex-core/walkthrough.md)
+
 -[How It Works](docs/vortex-core/how-it-works.md)
 
 -[Power-integration](docs/vortex-core/power-integration.md)
-
--[Walkthrough](docs/vortex-core/walkthrough.md)
 
 -[Cascade-heat](docs/vortex-core/cascading-heat.md)
 
