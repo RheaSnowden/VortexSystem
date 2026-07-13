@@ -23,7 +23,7 @@ The entire surface area of the covered pre-staging zone is utilized for heat exc
 - Keeps most heat productive inside the system.
 - Provides operational flexibility and resilience.
 
-For deeper technical details, see the [detailed technical page](reservoir-upper-loop-detailed.md).
+For deeper technical details, see the [detailed technical page](detailed/reservoir-upper-loop-detailed.md).
 
 **Related Examples**  
 [Plant Bowen Hypothetical](../power-integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../power-integration/waste-heat-only-industrial-hub.md)
