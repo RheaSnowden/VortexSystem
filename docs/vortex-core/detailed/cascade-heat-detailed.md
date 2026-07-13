@@ -54,7 +54,7 @@ Trade-offs include piping complexity, insulation requirements, and the need for 
 - Optimized hub placement for specific industrial clusters
 - Integration with underground thermal storage for longer-term buffering
 
-For the high-level overview, return to the parent [Cascading Heat Transfer System](cascade-heat.md) page.
+For the high-level overview, return to the parent [Cascading Heat Transfer System](../cascade-heat.md) page.
 
 ---
 
