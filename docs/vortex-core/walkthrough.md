@@ -25,13 +25,18 @@ Over time, the system reaches “heat saturation” — hot zones expand and the
 ## Supporting Systems
 - **Solar panels** can be mounted on the tunnel structure. They generate extra electricity while being cooled by the thermal loop (improving their output), and their captured heat feeds back into the system.
 - **Batteries** store surplus power and their discharge heat is also captured for cooling and system use.
-- **Hydrogen loop**: Excess electricity can produce hydrogen off-site. The hydrogen is preheated and burned at points along the tunnel for extra heat boost and pure water regeneration.
+- **Hydrogen loop**: Excess electricity can produce hydrogen off-site. The hydrogen is preheated and injected for boost.
+
+## Broader Implications
+The cascading thermal pipes and reservoirs create a reliable thermal utility that industries can tap into. Facilities can run hotter and longer because they have dependable cooling and heat recovery — something that isn’t feasible with current standalone systems. Heat capture can also cool carbon exhaust streams, enabling easier CO₂ utilization or sequestration while turning what was waste into useful energy.  
+
+A regional thermal infrastructure like this opens up many options that are difficult or expensive today: more efficient heavy industry, integrated recycling, data center clusters, and even new types of eco-industrial parks. The system scales simply by adding more tunnels as heat sources grow.
 
 ## Why This Cycle Matters
-The beauty of the system is that it turns waste heat that would otherwise be lost into useful electricity and recycled resources — all while running continuously with minimal intervention. Different configurations (straight tunnels, stacked loops, underground sections) allow it to adapt to many sites and needs.
+The walkthrough shows how all the pieces work together in a living system — from waste heat in to clean power and recycled resources out. Different configurations (straight tunnels, stacked loops, underground sections) allow it to adapt to many sites and needs.
 
 For the technical details behind each step, see [How It Works](how-it-works.md).  
-For concrete numbers and real-world-style scenarios, see the examples in [Power Integration](.../integration/power-integration.md).
+For concrete numbers and real-world-style scenarios, see the examples in [Power Integration](power-integration.md).
 
 ---
 
