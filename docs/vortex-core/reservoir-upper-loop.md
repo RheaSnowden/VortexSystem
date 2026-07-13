@@ -26,7 +26,7 @@ The entire surface area of the covered pre-staging zone is utilized for heat exc
 For deeper technical details, see the [detailed technical page](detailed/reservoir-upper-loop-detailed.md).
 
 **Related Examples**  
-[Plant Bowen Hypothetical](../power-integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../power-integration/waste-heat-only-industrial-hub.md)
+[Plant Bowen Hypothetical](../integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../integration/waste-heat-only-industrial-hub.md)
 
 ---
 
