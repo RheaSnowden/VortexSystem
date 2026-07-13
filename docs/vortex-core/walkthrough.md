@@ -1,32 +1,58 @@
-# VORTEX System Walkthrough
+# Walkthrough – A Complete Operational Cycle
 
-This page walks through the complete operating cycle of a VORTEX tunnel from heat input to power output and water return. It is intentionally high-level so you can see the overall flow before diving into individual components.
+This page provides a narrative guided tour through a full VORTEX operational cycle. It is intentionally high-level and story-like so you can follow the flow easily. Links to deeper technical pages and worked examples are provided when you want more detail.
 
-### 1. Heat Input (Bottom / Lower Tunnel)
-Waste heat from nuclear plants, industry, solar thermal, or H₂ combustion is added at the base or along the tunnel via heat exchangers or direct steam injection. This is the primary energy driver.
+## Starting the Cycle – Priming and Heat Input
+The system begins with a priming flow of water introduced into the canals and basins. Waste heat from industrial sources (steel mills, data centers, recycling plants, etc.) is collected by the cascading thermal fluid loop.
 
-### 2. Evaporation & Steam Generation
-Water in the lower canals and stepped basins is heated. Much of it evaporates, creating high-volume steam that begins rising. Stepped basins act as controlled “boiling pots,” allowing tunable evaporation rates.
+The thermal fluid is upgraded through relay hubs and delivered to the stepped basins inside the tunnels. As heat enters the basins, water begins to evaporate. This is the spark that starts the thermosiphon.
 
-### 3. Upward Steam Flow & Harvesting
-Rising steam travels through the upper ~2/3 of the tunnel. It passes through modular **steam sleeves** mounted on center supports. These extract kinetic energy from the flow and generate electricity. Gentle slopes and flow-directing partitions keep the steam moving smoothly.
+**Deeper detail**: See [Cascading Heat Transfer](cascading-heat.md) for how heat is collected and delivered.
 
-### 4. Condensation & Heat Rejection
-Rising steam reaches the upper tunnel and condenses in the covered pre-flow feed zone near the elevated reservoir. Heat is captured by thermal exchange piping, delivering near-boiling water back into the canals. The lake reservoir provides final buffering, polishing, and some passive cooling, with one-way flow into the pre-mixing section to keep useful heat in the cycle.
+## Evaporation and Steam Rise
+In the stepped basins, heat causes localized boiling. Steam rises buoyantly through the upper sections of the tunnel. This upward vapor flow drives the steam harvesting units (either custom sleeves or conventional low-pressure steam turbines in a proof-of-concept variant).
 
-### 5. Downward Water Flow & Hydro Harvesting
-Condensed water flows down the sloped main canals (30–45°) under gravity. It passes through **hydro sleeves** with gradient spiral fins, generating additional electricity. Overflows and stepped basins provide surge protection and extra heat exchange opportunities.
+The rising steam also creates a helpful draft/vacuum assist as it condenses higher up. In looped configurations this effect is particularly strong.
 
-### 6. Water Return & Balance
-At the bottom, any remaining hot water can be routed to a lower reservoir (for nuclear feedwater pre-heating or industrial use) or fully evaporated in “endless waterfall” mode. Excess or makeup water is managed via basins, valves, and direct piping from the maintenance tunnel. The H₂ loop can also regenerate pure water.
+**Deeper detail**: See [How It Works](how-it-works.md) for the dual-phase mechanics and [Power Integration](power-integration.md) for power harvesting details.
 
-The cycle repeats continuously, with the thermosiphon (heat-driven draft) and gravity providing the main driving forces.
+## Condensation and Downward Flow
+Steam condenses in the upper sections or in the pre-staging zone near the reservoir. The resulting liquid water flows downhill by gravity through the main canals, driving the hydro harvesting units (watermills or custom hydro sleeves).
 
-### Key Advantages of This Flow
-- **Self-sustaining** once primed and heat is supplied.
-- **Distributed harvesting** — many small sleeves instead of one large turbine.
-- **Flexible heat sources** — can accept steam, hot water, or direct heat at multiple points.
-- **High resilience** — sections can be isolated for maintenance while the rest continues operating.
+In “endless waterfall” mode (common in looped designs), most water evaporates before reaching the lowest point, minimizing the need for upward pumping. Any remaining water returns to the central shared thermal reservoir.
+
+**Deeper detail**: See the [Plant Bowen example](plant-bowen-example.md) or [Waste-Heat-Only Industrial Hub](waste-heat-only-industrial-hub.md) for concrete flow numbers.
+
+## Energy Harvesting and Electricity Generation
+- Descending water turns the hydro units.
+- Rising steam turns the steam units.
+- Both contribute to electricity generation via generators (often linked to shared driveshafts in the POC variant).
+
+The system produces continuous power as long as heat is supplied. Excess electricity can charge batteries or power off-site hydrogen electrolysis.
+
+**Deeper detail**: See [Power Integration](power-integration.md) for per-section math and output ranges.
+
+## Heat Recapture and Continuous Running
+Any heat that escapes the tunnel insulation is recaptured on the return cold thermal fluid lines. The pre-staging bay at the reservoir separates the cold mass from the final heat dump, keeping most energy productive inside the system.
+
+Once running, heat saturation extends the hot zones and reduces the marginal heat required to maintain flow. This makes continuous operation increasingly efficient.
+
+**Deeper detail**: See [Cascading Heat Transfer – Detailed](cascade-heat-detailed.md) for thermal loop mechanics.
+
+## Closing the Loop – Reservoir and Return
+Condensed water and cooled thermal fluid return to the central reservoir or are recycled. In some configurations near-boiling water can be returned to industrial users (e.g., preheating for a plant like Bowen).
+
+The cycle repeats indefinitely, with modular maintenance allowing individual components to be swapped without shutting down the entire tunnel.
+
+## Solar, Battery, and Hydrogen Synergies
+Solar panels mounted on the tunnel structure generate additional electricity while being cooled by the thermal loop. Battery storage smooths variability and captures discharge heat. Excess power can produce hydrogen, which is preheated and injected for boost — closing another resource loop.
+
+**Deeper detail**: See [Solar + Battery Integration](solar-battery-integration.md).
+
+## Why This Matters
+The walkthrough shows how all the pieces work together in a living system — from waste heat in to clean power and recycled resources out. Different configurations (straight tunnels, looped rings, underground sections) adapt the same core cycle to different sites and needs.
+
+For concrete numbers and scenarios, explore the worked examples in the [Power Integration section](power-integration.md).
 
 ---
 
