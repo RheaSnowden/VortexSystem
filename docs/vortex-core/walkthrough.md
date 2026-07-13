@@ -31,11 +31,11 @@ Over time, the system reaches “heat saturation” — hot zones expand and the
 The beauty of the system is that it turns waste heat that would otherwise be lost into useful electricity and recycled resources — all while running continuously with minimal intervention. Different configurations (straight tunnels, stacked loops, underground sections) allow it to adapt to many sites and needs.
 
 For the technical details behind each step, see [How It Works](how-it-works.md).  
-For concrete numbers and real-world-style scenarios, see the examples in [Power Integration](power-integration.md).
+For concrete numbers and real-world-style scenarios, see the examples in [Power Integration](.../integration/power-integration.md).
 
 ---
 
-**Previous**: [Power-integration](power-integration.md)
+**Previous**: [Summary](summary.md)
 **Index**[-Index-](../../Index.md)
 **Next**: [How it works](how-it-works.md)
 
