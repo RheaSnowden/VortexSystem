@@ -16,7 +16,7 @@ Main canals (≈2 m wide in the standard design) feed the hydro sleeves. Each ma
 ## Integration with the Overall System
 Basins are where the cascading thermal loop meets the working fluid. In looped configurations they support the endless waterfall mode with a central reservoir.
 
-For detailed geometry, passive effects, and design rationale, see the [detailed technical page](detailed/canal-basin-detailed.md) , or the tunnel cross-section diagrams.
+For detailed geometry, passive effects, and design rationale, see the [detailed technical page](detailed/canal-basin-design-detailed.md) , or the tunnel cross-section diagrams.
 
 **Related Examples**  
 [Plant Bowen Hypothetical](../integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../integration/waste-heat-only-industrial-hub.md)
