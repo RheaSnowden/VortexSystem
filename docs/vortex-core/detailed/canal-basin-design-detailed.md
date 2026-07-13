@@ -1,73 +1,55 @@
 
-**Canal & Basin System – Detailed Mechanical Integration**
+**Canal & Basin System – Detailed Design**
+---
 
-The canals and stepped basins form the active flow path where the hydro sleeves extract energy. The design prioritizes self-regulation, impact cushioning, flow preparation, maintainability, and integration with the thermal cascade loop.
+The stepped basins and canals are the heart of heat transfer, evaporation, mass balance, and flow preparation in the VORTEX tunnel. They create a largely **self-regulating geometric system** with many subtle passive effects that improve stability, efficiency, and durability.
 
-### Overall Layout & Geometry Rationale
-- **Main canals**: Sized for the maximum tolerable flow of the hydro sleeves (typically ~2 m wide in the current model).  
-  **Pre-sleeve section**: Built wider with side walls set at the maximum water volume the downstream sleeve section can handle. This creates a buffer zone.
-- **Parallel overflow channels**: Run alongside the main canals.
-- **Stepped basins**: Positioned between or below sleeve sections for water level control, buffering, and injection.
-- **Dry mechanical gallery**: Runs parallel to the canal row to house the driveshaft and gearing.
+## Overall Module Layout (per 150 ft repeating section)
+- **4 main canals** (≈2 m wide half-pipe at optimal flow).
+- **4 overflow returns** (paired, deeper/narrower).
+- **2 stepped basins** (blocky, multi-level for buffering, heat exchange, and evaporation).
 
-### Self-Regulating Flow Dynamics
-The geometry creates natural feedback that helps balance flow and protects components:
+## Geometry & Level Control
+- **Main canals**: Sized for optimal hydro sleeve flow. Max tolerable level is set via lower side walls, weirs, or rotatable sections. Excess water spills sideways into the adjacent lower overflow channel.
+- **Overflow returns**: Positioned to run full under normal conditions but drain first if flow drops. They provide impact cushioning for the airborne discharge jet from the hydro sleeve.
+- **Stepped basins**: Multi-level structures with thermal-conductive linings and pour lips/weirs. Basin height varies relative to the canal/overflow at different points, enabling gravity-driven transfers.
+- **External makeup pipe**: Connected to each basin for adding water (e.g., from H₂ combustion byproduct, condensation collection, or external sources). Flexible and non-critical if the system is well-balanced.
 
-- **Pre-sleeve widening**: Any excess water above the sleeve’s capacity naturally spills sideways into the overflow channel. This prevents overloading the sleeve.
-- **Post-sleeve behavior**: After the sleeve, the canal remains wide. The high-velocity spray from the sleeve exit lands in this wider section.
-- **Overflow cushioning**: The overflow empties into the main canal just before or at the sleeve exit point. This provides a cushion of slower water to absorb the impact of the sleeve spray, reducing erosion and turbulence.
-- **Flow merging & splitting**: When the main and overflow flows merge, any excess volume above the next sleeve’s capacity is again split by the half-wall limits, directing surplus back into the overflow. This cycle repeats at each sleeve section.
+**Thermal Placement Note**: Main canals can include thermal plates for distributed heat, but **no direct thermal dumping** occurs in the immediate hydro/steam sleeve sections. This reserves space for driveshafts and prevents excessive localized evaporation inside the sleeves themselves. Heat exchange happens in the open basin/canal areas between sleeve modules. The airborne outpour from the hydro sleeve also acts as secondary air-water heat exchange.
 
-**Stepped basins** enhance control:
-- Act as adjustable buffers with raise/lower walls or weirs on the overflow side.
-- Open pour valves allow precise water addition from the basin into the overflow or main flow.
-- External injection ports support makeup water or thermal loop fluid for balance or cooling.
-- Primary heat exchange medium, slower deeper flow allows for better evaporation in tunnel.
+## Water & Flow Dynamics (Passive Self-Regulation)
+Water is distributed via controlled piping into the main canals, overflows, and basins.
 
-This design automatically compensates for variations in input flow and evaporation losses further downstream. After initial priming, origin flow can often be reduced while basins and overflows handle fine adjustments.
+**Key Flow Sequence**:
+1. Upstream distribution fills main canals, overflows and stepped basins.
+2. **Pre-sleeve transition**: Main canal gradually encloses (half-pipe → full pipe) and narrows (e.g., ~1.75 m) while transitioning from 30° slope toward 0° (horizontal) sleeve inlet. Pre-rotation grooves/fins align and spin the flow for better sleeve performance.
+3. **Overflow decoupling**: Post-transition, the overflow runs at a softer grade (or adjusted slope). It stays lower than the sleeve exit but merges back into the main canal *after* the sleeve entry point, creating a slower-water cushion for the high-velocity airborne jet. This reduces erosion and turbulence.
+4. **Merging & excess management**: Overflow rejoins the main canal downstream of the sleeve. Any excess above the set level spills back into overflow, creating a repeating self-regulating loop.
+5. **Basin interactions**:
+   - **Subtraction** (canal → basin): Partial wall lowering, weirs, or openings.
+   - **Addition** (basin → system): Adjustable nozzles direct water into the overflow at strategic points (before/after decoupling, before rejoining main canal).
+   - Basins and tunnel condensation help compensate if the overflow runs dry before the main flow.
 
-### Transition to Sleeve Inlet
-- **Gradual narrowing & enclosure**: After the wide post-sleeve section, the main canal starts to narrow inward while its walls rise and begin to enclose. This transitions from an open ~2 m half-pipe style channel to a narrower fully enclosed pipe (e.g., ~1.75 m diameter or equivalent, depending on final optimization).
-- **Pre-rotation features**: The full-pipe section includes internal grooves, fins, or rifling to start pre-rotating the flow before it enters the hydro sleeve. This improves sleeve efficiency and reduces turbulence at entry.
-- **Slope & guidance**: The enclosure occurs gradually on the 30–45° slope, ending with a curved guided transition into a 0° (horizontal) inlet for the hydro sleeve. This smooths flow, reduces energy loss, and aligns water with the sleeve’s optimal operating orientation.
+These geometric tricks enable **mostly passive operation** after priming. Variations in evaporation or input are automatically buffered, reducing the need for active pumping or intervention.
 
-### Hydro Sleeve Integration
-- Preferred arrangement: Parallel paired sleeves per section for stability and simplicity.
-- Mechanical coupling: Indirect via idler gears or gearboxes.
-- Maintenance access: Underside or side gallery.
+## Advantages & Integration
+- Self-regulation minimizes operational complexity and energy use.
+- Cushioned exits, pre-rotation, and distributed heat exchange boost efficiency and component life.
+- Strong synergy with paired hydro sleeves, steam sleeves above, cascading thermal loop, and looped/endless-waterfall modes.
+- Modular canal liners recommended for maintainability (extractable via rail/crane).
 
-### Modular Canal Construction & Maintenance
-Canal sections (flow-contact surfaces) should be **modular and extractable** rather than fully poured concrete for long-term serviceability.
-
-**Recommended Approach**
-- Standardized prefabricated fittings or liners mounted to the main structural shell (concrete or frame).
-- **Extraction methodology**:
-  1. Ceiling-mounted rail lift or gantry engages the section.
-  2. Unit is disconnected and lifted out.
-  3. Moved to a side rail or holding area for inspection/repair.
-  4. Replacement unit is lowered and secured.
-- **Mounting options**: Bolted connections, keyed locks, or quick-release clamps for rapid swaps.
-- **Coatings**: Anti-fouling, corrosion-resistant, or low-friction linings can be applied to modular sections (easier to refurbish or upgrade than fixed concrete).
-- **Safety details**: Lockout/tagout procedures, temporary flow bypass or isolation gates during swaps, harness points in the access gallery, and sensors to confirm proper seating before restarting flow.
-
-This modular approach minimizes downtime, allows material upgrades, and avoids the permanence of fully poured canals.
-
-### Thermal Piping & Other Considerations
-- Thermal transfer pipes are rerouted around sleeve/basin sections via the dry gallery or wall embeds.
-- All heat exchange remains indirect.
-
-### Options & Alternatives
-- Sleeve grouping, coupling methods, basin control, overflow design, transition geometry details.
-
-### Advantages
-- Self-regulating flow reduces operational complexity.
-- Cushioned sleeve exit and pre-rotation improve efficiency and durability.
-- Gradual transitions minimize energy loss and turbulence.
+For visuals, see `Water flow details.png` and planned tunnel cross-sections.
 
 <img src="../../../images/vortex/Water flow details.png" alt="Water flow details" width="900" style="display: block; margin: 20px auto;">
 
 ---
 
-**Previous**: [Canal-basin](../canal-basin-design.md)
-**Index**[-Index-](../../../Index.md)
+**Previous**: [Canal-basin](../canal-basin-design.md)  
+**Index**[-Index-](../../../Index.md)  
 **Next**: [Hydro-sleeves](../hydro-sleeves.md)
+
+
+
+
+
+
