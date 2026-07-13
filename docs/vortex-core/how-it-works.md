@@ -36,6 +36,6 @@ For a narrative step-by-step tour through a complete cycle, see the [Walkthrough
 
 ---
 
-**Previous**: [Summary](summary.md) 
+**Previous**: [Walkthrough](walkthrough.md) 
 **Index** [-Index-](../../Index.md)
 **Next**: [Power-integration](power-integration.md) 
