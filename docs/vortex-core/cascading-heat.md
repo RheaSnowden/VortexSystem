@@ -35,6 +35,6 @@ For deeper technical details on architecture, hub design, flow behavior, integra
 
 ---
 
-**Previous**: [Walkthrough](walkthrough.md)
+**Previous**: [Power integration](power-integration.md)
 **Index**[-Index-](../../Index.md)
 **Next**: [Reservoir](reservoir-upper-loop.md)
