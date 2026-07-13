@@ -32,8 +32,6 @@ See the [Power Integration page](power-integration.md) for per-section math, ran
 - Evaporation creates helpful draft/vacuum assist (especially strong in space habitats).
 - Modular maintenance allows nonstop operation.
 
-For a narrative step-by-step tour through a complete cycle, see the [Walkthrough](walkthrough.md) page.
-
 ---
 
 **Previous**: [Walkthrough](walkthrough.md) 
