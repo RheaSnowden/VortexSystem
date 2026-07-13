@@ -7,6 +7,8 @@
 
 -[How It Works](docs/vortex-core/how-it-works.md)
 
+-[Power-integration](docs/vortex-core/power-integration.md)
+
 -[Walkthrough](docs/vortex-core/walkthrough.md)
 
 -[Cascade-heat](docs/vortex-core/cascading-heat.md)
@@ -22,8 +24,6 @@
 -[Vortex Tunnel](docs/vortex-core/tunnel-construction-layouts.md)
 
 -[Maintenance-safety](docs/vortex-core/maintenance-safety.md)
-
--[Power-integration](docs/vortex-core/power-integration.md)
 
 -[Conclusion](docs/vortex-core/Conclusion.md)
 
