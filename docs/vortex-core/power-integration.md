@@ -41,19 +41,17 @@ The following worked examples illustrate how VORTEX power integration can be app
 - **[Waste-Heat-Only Industrial Hub](../integration/waste-heat-only-industrial-hub.md)** — Fully circular regional system using only waste heat from steel mills, heavy industry, recycling systems, and data centers. Emphasizes endless waterfall mode, shared central reservoir, underground sections, solar + battery integration, and the H₂ loop. No maximum size limit — simply add more tunnels.
 - **[Proof-of-Concept Variant](../integration/proof-of-concept-variant.md)** — Comparison of proven technology vs. advanced sleeves using the Bowen scenario as a reference.
 
-These examples demonstrate the flexibility of the VORTEX concept across different heat-source profiles and risk tolerances.
-
 ## Ranges, Sensitivity & Scalability
 Power output is highly dependent on total available heat input and component efficiencies. Because the system is modular and expandable, performance scales linearly with added tunnel length or additional heat sources.
 
 A compact sensitivity view (using the same per-section math across examples):
 
-| Total Heat Input | Conservative Output | Optimistic Output     | Typical Use Case                  |
-|------------------|---------------------|-----------------------|-----------------------------------|
-| 200 MWth         | 80–160 MW electric  | 160–320 MW electric   | Smaller industrial cluster        |
-| 400 MWth         | 200–325 MW electric | 400–800+ MW electric  | Mid-scale regional integration    |
-| 1,000+ MWth      | 500–800+ MW electric| 900–1,600+ MW electric| Large industrial park             |
-| Multi-GWth       | Multi-GW scale      | Multi-GW+ scale       | Major regional or national hub    |
+| Total Heat Input | Conservative Output (MW electric) | Optimistic Output (MW electric) | Typical Use Case                  |
+|------------------|-----------------------------------|---------------------------------|-----------------------------------|
+| 200 MWth         | 80–160                            | 160–320                         | Smaller industrial cluster        |
+| 400 MWth         | 200–325                           | 400–800+                        | Mid-scale regional integration    |
+| 1,000+ MWth      | 500–800+                          | 900–1,600+                      | Large industrial park             |
+| Multi-GWth       | Multi-GW scale                    | Multi-GW+ scale                 | Major regional or national hub    |
 
 Key variables that can be adjusted:
 - Heat input per 150 ft section
@@ -62,8 +60,8 @@ Key variables that can be adjusted:
 - Tunnel density and configuration (straight vs. looped/ringed)
 
 ## Key Advantages
-- **Nonstop operation** with modular maintenance
-- Strong benefits from **continuous running** (heat saturation, improved draft, higher utilization)
+- Nonstop operation with modular maintenance
+- Strong benefits from continuous running (heat saturation, improved draft, higher utilization)
 - Excellent integration with diverse waste heat sources
 - Expandable without upper size limit
 - Synergies with solar, hydrogen, carbon management, and materials recycling
@@ -76,15 +74,14 @@ Key variables that can be adjusted:
 - Steam diversion (where used) must be balanced against the original heat source’s own generation needs.
 
 ## Related Pages
+- [Cascading Heat Transfer System](cascading-heat.md)
 - [Proof-of-Concept Variant using Proven Technology](../integration/proof-of-concept-variant.md)
 - [Plant Bowen Hypothetical](../integration/plant-bowen-example.md)
 - [Waste-Heat-Only Industrial Hub](../integration/waste-heat-only-industrial-hub.md)
 - [Solar + Battery Integration](../integration/solar-battery-integration.md)
-- [Cascading Heat Transfer System](cascading-heat.md)
-- [How It Works](how-it-works.md)
 
 ---
 
-**Previous**: [Maintenance-safety](maintenance-safety.md)
+**Previous**: [How It Works](how-it-works.md)
 **Index**[-Index-](../../Index.md)
-**Next**: [Conclusion] conclusion.md
+**Next**: [Walkthrough](walkthrough.md)
