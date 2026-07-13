@@ -1,49 +1,41 @@
+# Reservoir & Upper Loop – Detailed Technical
 
-**Reservoir System – Detailed Design & Operation**
+This page provides deeper technical insight into the reservoir and upper loop design, operation, and rationale.
 
-The elevated reservoir serves as the cold end of the closed-loop system. It provides final temperature polishing, condensation, and a large thermal mass for passive cooling and buffering. While it can support secondary uses (e.g., fishery, recreation, or aquaculture), these are incidental. The primary function is reliable, large-volume cool water supply and heat rejection.
+## Upper Tunnel Exit & Pre-Staging Area
+Steam exits the main tunnel directly into a covered pre-staging / mixing zone. This area features a rounded ceiling to encourage condensation and is heavily lined with heat exchange piping for efficient final heat capture. A significant portion of condensation occurs here, creating a helpful vacuum effect that strengthens the overall thermosiphon draft.
 
-### Main Lake Reservoir
-- Acts as the final cooling/polishing stage for returning fluid (~60–75°C target).
-- Large thermal mass helps passively absorb and dissipate excess heat.
-- Multi-use potential exists but is secondary to engineering performance.
+The covered pre-staging zone is sized to allow good residence time for steam while keeping the system compact. Water from condensation flows into the elevated reservoir or directly back into the downward canals via controlled drainage feeds.
 
-### Pre-Staging / Extended Staging Area
-This covered corridor or extended section at the tunnel return acts as the primary condensation and final heat-dump zone before the open lake.
+## Reservoir Functions
+- **Final Polishing & Cooling**: Thermal fluid is brought to the target ~60–75°C range before re-entering the system.
+- **Buffering & Makeup**: Provides thermal and volume buffering. Rain collection or hydrogen regeneration helps maintain levels.
+- **One-Way Flow Design**: Water is drawn from the lake into the covered pre-staging zone to avoid heating the bulk reservoir and keep heat useful in the cycle.
+- **Additional Uses**: Can support recreation, aquaculture, or emergency storage depending on design.
 
-- **Purpose**: Maximize condensation and heat extraction close to the tunnel exit, minimizing thermal load on the open reservoir.
-- **Passive condensation options** (preferred for simplicity and reliability):
-  - Extended surface area (baffles, fins, or structured packing) to promote droplet formation and collection.
-  - Cooled ceiling or wall panels (using lake water or external air) for passive radiative/convective cooling.
-  - Mist or spray nozzles (gravity-fed) to increase surface area for faster condensation.
-  - Labyrinth or serpentine flow path to increase residence time without moving parts.
-- **Sizing example** (for scaling reference):  
-  Assume a single large tunnel with ~20–30 m³/s total water/steam flow (reasonable for a 6-canal ~2 m wide design).  
-  - Staging area recommendation: 800–2,000+ meters long (depending on steam volume and desired condensation efficiency), with sufficient cross-section to keep flow velocity low.  
-  - Minimum water volume in staging: Tens of thousands of cubic meters to provide adequate residence time and thermal buffering.  
-  - Others can scale this with their tunnel’s flow rate (e.g., double the flow → roughly double the volume/length for similar performance).
+In looped configurations the reservoir often serves as the central shared thermal mass, feeding the endless waterfall mode.
 
-A single shared staging area can serve multiple tunnels for simplicity. High-capacity or independent tunnels may benefit from dedicated staging zones.
+## Flow Control at Startup & Operation
+A starter flow is introduced into all main canals (and overflows) to prime the system. Once running, flow rates are dialed back to match condensation return and maintain balance. In the double-V or looped configuration this means managing multiple main canals, overflows, and stepped basins per section.
 
-### Heat Dumping & Piping Before Final Cooling
-- **Pre-staging heat dump**: Dedicated piping and exchangers in the staging area release remaining high-grade heat before the fluid reaches the open lake.
-- **Thermal exchange plating**: Heat transfer occurs via plates, coils, or embedded exchangers. The thermal fluid pipes **do not come into direct contact** with the reservoir water — all transfer is indirect through conductive surfaces.
-- **Design options**:
-  - Distributed wall or floor piping in the staging area.
-  - Submerged coil arrays or plate exchangers for high surface area.
-  - Zoned layout so hotter return fluid dumps heat first, then flows into cooler polishing zones.
+The entire surface area of the covered pre-staging zone is utilized for heat exchange to maximize recapture. While the goal is near-complete steam recovery, minor losses are expected and replenished via rain, hydrogen regeneration, or controlled makeup water.
 
-### Passive Cooling & Multi-Use Aspects
-- The large open lake provides passive cooling through surface evaporation, radiation, and convection.
-- Overflow and makeup water systems maintain level and quality.
+## Integration with the Thermal Loop and Examples
+The reservoir is the final polishing point for the cascading thermal fluid loop. In the 400 MWth example scenarios, it helps maintain stable mass balance and supports the continuous-running benefits of heat saturation.
 
-### Considerations
-- **Flow balance**: Steam input volume should roughly match condensed return water to maintain stable lake levels.
-- **Staging vs. open lake split**: More staging capacity reduces stress on the open reservoir and improves overall efficiency.
-- **Materials & maintenance**: Corrosion-resistant surfaces in contact with water; access for cleaning and inspection.
-- **Scalability**: Shared large lake for multi-tunnel systems is often most efficient; dedicated staging becomes attractive at very high per-tunnel throughput.
+See the worked examples in the Power Integration section for concrete flow and heat balance numbers.
 
-The reservoir completes the closed thermal cycle while providing a robust buffer and final heat sink. It integrates closely with the cascade loop and tunnel return design.
+## Design Rationale and Trade-offs
+The elevated reservoir provides natural gravity assist for return flows and a convenient location for final heat rejection. The pre-staging bay separation keeps the bulk reservoir cool, preserving its buffering capacity.
+
+Trade-offs include the need for good insulation and level control to avoid unnecessary heat loss or evaporation from the main reservoir body.
+
+## Future Refinements
+- Optimized pre-staging zone sizing and heat exchanger layouts
+- Integration with underground reservoir sections for additional thermal stability
+- Enhanced makeup water strategies using hydrogen regeneration or rainwater harvesting
+
+For the high-level overview, return to the parent [Reservoir & Upper Loop](../reservoir-upper-loop.md) page.
 
 ---
 
