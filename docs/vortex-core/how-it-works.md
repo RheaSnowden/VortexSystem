@@ -2,6 +2,8 @@
 
 VORTEX is a **thermosiphon-driven, dual-phase tunnel system** that harvests energy from both falling water and rising steam in one integrated loop. It turns waste heat into electricity while recycling water and managing thermal energy at scale.
 
+> **Conceptual note**: This describes the intended behavior of the system. Real-world performance would require detailed modeling and validation.
+
 ### The Basic Cycle
 1. **Heat Input** — Waste heat (industrial, nuclear, geothermal, etc.) is added at the bottom or along the tunnel via the cascading thermal loop.
 2. **Evaporation** — Water is heated and turns into steam, creating upward flow.
@@ -29,7 +31,6 @@ The result is a continuous, self-sustaining loop that produces power while recyc
 For power output ranges, worked examples, and comparison between proven technology and advanced sleeves, see the [Power Integration page](power-integration.md).
 
 ---
-
-**Previous**: [Walkthrough](walkthrough.md) 
-**Index** [-Index-](../../Index.md)
-**Next**: [Power-integration](power-integration.md) 
+**Previous**: [Walkthrough](walkthrough.md)  
+**Index**: [Index](../../Index.md)  
+**Next**: [Power-integration](power-integration.md)
