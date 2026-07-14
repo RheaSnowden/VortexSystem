@@ -35,5 +35,5 @@ For detailed options, mechanics, and considerations, see [Hydro-sleeves-details]
 
 ---
 **Previous**: [Canal-basin](canal-basin-design.md)  
-**Index**[-Index-](../../Index.md)  
+**Index**: [Index](../../Index.md)  
 **Next**: [Steam-sleeve turbines](steam-sleeves.md)
