@@ -81,7 +81,7 @@ Key variables that can be adjusted:
 - [Solar + Battery Integration](../integration/solar-battery-integration.md)
 
 ---
-
-**Previous**: [How It Works](how-it-works.md)
-**Index**[-Index-](../../Index.md)
+**Previous**: [How It Works](how-it-works.md)  
+**Index**: [Index](../../Index.md)  
 **Next**: [Cascading-heat](cascading-heat.md)
+
