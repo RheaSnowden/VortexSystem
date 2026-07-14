@@ -25,8 +25,8 @@ This is the complete navigation hub for the project. Documents are grouped by **
 - [Conclusion](docs/vortex-core/Conclusion.md)
 
 ## Supporting Materials
-- [Research & Calculations](docs/research/) — (folder)
-- [Images & Concept Art](images/) — (folder) — Visual gallery coming soon
+- [Research & Calculations](docs/research/calculations.md) 
+- [Images & Concept Art](images/visuals.md) 
 
 ## Other / Future Sections
 - Related projects and additional ideas will be added here over time
