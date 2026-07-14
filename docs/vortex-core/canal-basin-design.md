@@ -25,7 +25,6 @@ For detailed geometry, passive effects, and design rationale, see the [detailed 
 [Plant Bowen Hypothetical](../integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../integration/waste-heat-only-industrial-hub.md)
 
 ---
-
-**Previous**: [Reservoir](reservoir-upper-loop.md)
-**Index**[-Index-](../../Index.md)
+**Previous**: [Reservoir](reservoir-upper-loop.md)  
+**Index**: [Index](../../Index.md)  
 **Next**: [Hydro-sleeve turbines](hydro-sleeves.md)
