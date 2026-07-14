@@ -34,7 +34,6 @@ Routine maintenance is designed to be a normal, non-disruptive activity rather t
 Professional engineering review and compliance with all applicable codes is essential.
 
 ---
-
-**Previous**: [Vortex Tunnel](tunnel-construction-layouts.md)
-**Index**[-Index-](../../Index.md)
+**Previous**: [Vortex Tunnel](tunnel-construction-layouts.md)  
+**Index**: [Index](../../Index.md)  
 **Next**: [Conclusion] -to be added.
