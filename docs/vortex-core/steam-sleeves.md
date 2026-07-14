@@ -39,7 +39,6 @@ This is **one feasible configuration** leveraging proven steam turbine principle
 For detailed options, mechanics and considerations, see [Steam-sleeves-details](detailed/steam-sleeves-detailed.md).
 
 ---
-
 **Previous**: [Hydro-sleeve turbines](hydro-sleeves.md)
-**Index**[-Index-](../../Index.md)
+**Index**: [Index](../../Index.md)
 **Next**: [Vortex Tunnel](tunnel-construction-layouts.md)
