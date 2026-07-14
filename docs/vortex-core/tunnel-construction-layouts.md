@@ -33,6 +33,6 @@ The VORTEX tunnel is the structural and functional backbone of the system. It ca
 For detailed options, see [Tunnel-construction-layouts-detailed](detailed/tunnel-construction-layouts-detailed.md).
 
 ---
-**Previous**: [Steam-sleeve turbines](steam-sleeves.md)
-**Index**[-Index-](../../Index.md)
+**Previous**: [Steam-sleeve turbines](steam-sleeves.md)  
+**Index**: [Index](../../Index.md)  
 **Next**: [Maintenance-safety](maintenance-safety.md)
