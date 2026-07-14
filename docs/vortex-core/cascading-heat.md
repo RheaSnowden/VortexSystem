@@ -34,7 +34,6 @@ For deeper technical details on architecture, hub design, flow behavior, integra
 [Plant Bowen Hypothetical](../integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../integration/waste-heat-only-industrial-hub.md)
 
 ---
-
-**Previous**: [Power integration](power-integration.md)
-**Index**[-Index-](../../Index.md)
+**Previous**: [Power integration](power-integration.md)  
+**Index**: [Index](../../Index.md)  
 **Next**: [Reservoir](reservoir-upper-loop.md)
