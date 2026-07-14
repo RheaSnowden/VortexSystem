@@ -29,7 +29,6 @@ For deeper technical details, see the [detailed technical page](detailed/reservo
 [Plant Bowen Hypothetical](../integration/plant-bowen-example.md) | [Waste-Heat-Only Industrial Hub](../integration/waste-heat-only-industrial-hub.md)
 
 ---
-
-**Previous**: [Cascade-heat](cascading-heat.md)
-**Index**[-Index-](../../Index.md)
+**Previous**: [Cascade-heat](cascading-heat.md)  
+**Index**: [Index](../../Index.md)  
 **Next**: [Canal-basin](canal-basin-design.md)
