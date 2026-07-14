@@ -4,7 +4,7 @@ Thank you for your interest in this project! VORTEX is currently an early-stage 
 
 ---
 
-This repository currently focuses on the VORTEX system, with more conceptual projects (such as honeycomb arcology designs) coming soon. The same contribution spirit applies across all ideas."
+This repository currently focuses on the VORTEX system, with more conceptual projects (such as honeycomb arcology designs) coming soon. The same contribution spirit applies across all ideas.
 
 
 ## Ways to Contribute
