@@ -56,7 +56,7 @@ This repository is intended as an **inspirational resource** that will be refine
 ## Repository Contents
 - `docs/vortex-core/` — Core system documentation and component details
 - `docs/arcology-integration/` — Integration concepts with large-scale habitats
-- `images/` — Concept art and diagrams
+- `images/` — Concept art and diagrams [Visual Gallery →](images/visuals.md)
 - `research/` — Supporting references and calculations (growing)
 - `Index.md` — Full navigation hub for all documents
 
