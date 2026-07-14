@@ -19,7 +19,7 @@ Multiple smaller sleeves (e.g., 2–4 per section) are preferred over fewer larg
 ### Internal Flow Path
 The internals draw from proven axial steam turbine and ducted impeller technology:
 - Gradient or airfoil-shaped fins/blades optimized for steam velocity and density.
-- Optional stator/guide vanes downstream of the rotating element to recover swirl energy and improve efficiency.
+- Optional stator/guide vanes downstream to recover swirl energy and improve efficiency.
 - Proper tip clearance and hub design to minimize losses.
 - Optional converging outlet section for better pressure recovery.
 
@@ -34,8 +34,9 @@ Rising steam (driven by thermosiphon and condensation vacuum) passes through the
 - Modular and adaptable to different steam conditions.
 - Strong synergy with the overall distributed philosophy of VORTEX.
 
-For detailed options, mechanics and considerations, see 
-[Steam-sleeves-details](detailed/steam-sleeves-detailed.md)
+This is **one feasible configuration** leveraging proven steam turbine principles; many mounting and blade arrangements are possible.
+
+For detailed options, mechanics and considerations, see [Steam-sleeves-details](detailed/steam-sleeves-detailed.md).
 
 ---
 
