@@ -39,8 +39,6 @@ For the technical details behind each step, see [How It Works](how-it-works.md).
 For concrete numbers and real-world-style scenarios, see the examples in [Power Integration](power-integration.md).
 
 ---
-
-**Previous**: [Summary](summary.md)
-**Index**[-Index-](../../Index.md)
+**Previous**: [Summary](summary.md)   
+**Index**: [Index](../../Index.md)  
 **Next**: [How it works](how-it-works.md)
-
