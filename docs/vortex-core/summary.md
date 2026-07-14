@@ -4,6 +4,8 @@
 
 A modular, distributed, hybrid liquid/steam thermosiphon system for large-scale waste heat recovery, power generation, and thermal management.
 
+> **This is a conceptual design.** No prototypes, detailed simulations, or CFD validation exist yet. The ideas here are meant to inspire discussion and further development.
+
 VORTEX turns waste heat into electricity while recycling water and managing flow in an extended inclined tunnel. It is designed as a scalable “energy conduit” that can integrate with arcologies, industrial energy parks, and future space habitats.
 
 ## Core Principles
@@ -40,12 +42,11 @@ VORTEX works with diverse heat sources. Nuclear is ideal; coal, industrial waste
 A minimum heat/steam threshold is needed to sustain natural thermosiphon.
 
 ## Vision
-VORTEX provides practical, deployable technology for a more efficient and sustainable future on Earth, while offering a strong foundation for off-world habitats and terraforming efforts. The system is intentionally modular and adaptable — core concepts can be used or extended independently.
+VORTEX provides practical, deployable concepts for a more efficient and sustainable future on Earth, while offering a strong foundation for off-world habitats and terraforming efforts. The system is intentionally modular and adaptable — core ideas can be used or extended independently.
 
-Contributions welcome under Apache 2.0.
+Contributions and refinements are welcome under the [Apache 2.0 License](../../LICENSE).
 
 ---
-
-**Previous**: [README](../../README.md)
-**Index**[-Index-](../../Index.md)
+**Previous**: [README](../../README.md)  
+**Index**: [Index](../../Index.md)  
 **Next**: [Walkthrough](walkthrough.md)
