@@ -120,4 +120,4 @@ Engineers are encouraged to adjust any variable (efficiency, heat input, head, e
 *Last major update: Based on detailed scenario modeling (Plant Bowen 400 MWth case and per-section analysis).*
 
 ---
-**Index**: [Index](../../../index.md)
+**Index**: [Index](../../Index.md)
