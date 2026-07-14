@@ -73,3 +73,6 @@ Cross-reference any specific numbers or assumptions from that example here for e
 - Keep assumptions clearly stated so readers can evaluate or improve them.
 
 Contributions to this section (new formulas, references, or example refinements) are especially welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).
+
+---  
+**Index**: [Index](../../Index.md) 
