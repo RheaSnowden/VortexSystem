@@ -34,3 +34,4 @@ For power output ranges, worked examples, and comparison between proven technolo
 **Previous**: [Walkthrough](walkthrough.md)  
 **Index**: [Index](../../Index.md)  
 **Next**: [Power-integration](power-integration.md)
+
