@@ -1,36 +1,41 @@
+# VORTEX System — Full Documentation Index
 
+This is the complete navigation hub for the project. Documents are grouped by **layer of depth** and topic for easy exploration.
 
-# VORTEX System
--[Readme](README.md) 
+## Quick Start / Overview
+- [README](README.md) — Project introduction and guided tour
+- [System Summary](docs/vortex-core/summary.md) — High-level overview, principles, and vision
 
--[Summary](docs/vortex-core/summary.md)
+## Gentle Introduction
+- [How It Works](docs/vortex-core/how-it-works.md) — Step-by-step explanation of the system
+- [Walkthrough](docs/vortex-core/walkthrough.md) — Narrative or example-based tour
 
--[Walkthrough](docs/vortex-core/walkthrough.md)
+## Core System Components
+- [Canal-Basin Design](docs/vortex-core/canal-basin-design.md)
+- [Hydro Sleeve Turbines](docs/vortex-core/hydro-sleeves.md)
+- [Steam Sleeve Turbines](docs/vortex-core/steam-sleeves.md)
+- [Tunnel Construction & Layouts](docs/vortex-core/tunnel-construction-layouts.md)
+- [Reservoir / Upper Loop](docs/vortex-core/reservoir-upper-loop.md)
 
--[How It Works](docs/vortex-core/how-it-works.md)
+## Integration & Advanced Topics
+- [Power Integration](docs/vortex-core/power-integration.md)
+- [Cascading Heat Loops](docs/vortex-core/cascading-heat.md)
+- [Maintenance & Safety](docs/vortex-core/maintenance-safety.md)
+- [Arcology Integration] to be made (docs/arcology-integration/) — (folder)
+- [Conclusion](docs/vortex-core/Conclusion.md)
 
--[Power-integration](docs/vortex-core/power-integration.md)
+## Supporting Materials
+- [Research & Calculations](docs/research/) — (folder)
+- [Images & Concept Art](images/) — (folder) — Visual gallery coming soon
 
--[Cascade-heat](docs/vortex-core/cascading-heat.md)
+## Other / Future Sections
+- Related projects and additional ideas will be added here over time
 
--[Reservoir](docs/vortex-core/reservoir-upper-loop.md)
+---
 
--[Canal-basin](docs/vortex-core/canal-basin-design.md)
+**Repository-wide links**
+- [LICENSE](../LICENSE) (Apache 2.0)
+- [CONTRIBUTING](docs/CONTRIBUTING.md) (coming soon)
+- Back to [README](README.md)
 
--[Hydro-sleeve turbines](docs/vortex-core/hydro-sleeves.md)
-
--[Steam-sleeve turbines](docs/vortex-core/steam-sleeves.md)
-
--[Vortex Tunnel](docs/vortex-core/tunnel-construction-layouts.md)
-
--[Maintenance-safety](docs/vortex-core/maintenance-safety.md)
-
--[Conclusion](docs/vortex-core/Conclusion.md)
-
-# Other Links
-- To be added later
-
--ImageGallery
-
--Honeycomb Arcology system
-
+Feel free to open Issues or Discussions with questions, suggestions, or new ideas!
