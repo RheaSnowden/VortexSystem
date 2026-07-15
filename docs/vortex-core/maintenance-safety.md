@@ -22,7 +22,7 @@ Safety was considered throughout the conceptual design, but these are not formal
 
 Real projects would require full hazard analysis, emergency procedures, and regulatory approval.
 
-For deeper details on maintenance procedures and specific design considerations, see the [detailed technical page](maintenance-safety-detailed.md) if available.
+For deeper details on maintenance procedures and specific design considerations, see the [detailed technical page](detailed/maintenance-safety-detailed.md) if available.
 
 **Related Pages**  
 [Hydro Sleeves](hydro-sleeves.md) | [Steam Sleeves](steam-sleeves.md) | [Canal & Basin Design](canal-basin-design.md)
