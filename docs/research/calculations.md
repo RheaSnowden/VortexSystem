@@ -1,20 +1,19 @@
 # VORTEX Calculations & Quantitative Analysis
 
-**Purpose**: This document serves as the central, transparent reference for all quantitative estimates used throughout the VORTEX repository. Any number appearing in other documents should be traceable back to the formulas, assumptions, and reasoning presented here.
+**Purpose**: This document is the central, transparent reference for all quantitative estimates in the VORTEX repository. Any number appearing in other documents should be traceable back to the formulas, assumptions, and reasoning presented here.
 
-This page is written for engineers and technical reviewers who want to understand, validate, or adjust the estimates. All values are order-of-magnitude and conceptual unless otherwise noted.
+This page is written for engineers and technical reviewers who want to understand, validate, or adjust the estimates. All values are order-of-magnitude and conceptual unless otherwise noted. The calculations are modular so you can modify variables and recalculate easily.
 
 ## Key Variables & Assumptions
 
-| Variable                        | Conservative Value          | Optimistic Value            | Notes / Reasoning |
-|---------------------------------|-----------------------------|-----------------------------|-------------------|
-| Hydro sleeve efficiency         | 50–55%                      | 65–70%                      | Untested custom design |
-| Steam sleeve efficiency         | 35–40%                      | 50–55%                      | Accounts for wet steam |
-| Generator + drive efficiency    | 88–90%                      | 92–94%                      | — |
-| Latent heat of vaporization     | 2.26 MJ/kg                  | 2.26 MJ/kg                  | At ~100°C (adjust for operating pressure) |
-| Vertical head per 150 ft section| 22.86 m                     | 22.86 m                     | 30° slope |
-| Canal narrowing effect          | Moderate torque gain        | Higher torque gain          | 2 m half-pipe → 1.75 m full pipe |
-| Pre-rotation effectiveness      | Modest improvement          | Significant improvement     | Grooves/fins in transition zone |
+| Variable                          | Conservative Value          | Optimistic Value            | Notes / Reasoning |
+|-----------------------------------|-----------------------------|-----------------------------|-------------------|
+| Hydro sleeve efficiency           | 50–55%                      | 65–70%                      | Untested custom design; includes flow narrowing effect |
+| Steam sleeve efficiency           | 35–40%                      | 50–55%                      | Accounts for wet steam conditions |
+| Generator + drive efficiency      | 88–90%                      | 92–94%                      | — |
+| Latent heat of vaporization       | 2.26 MJ/kg                  | 2.26 MJ/kg                  | At ~100°C (adjust for operating pressure/temperature) |
+| Vertical head per 150 ft section  | 22.86 m                     | 22.86 m                     | 30° slope |
+| Canal narrowing effect            | Moderate torque gain        | Higher torque gain          | 2 m half-pipe → 1.75 m full pipe (velocity increase) |
 
 **General Notes**:
 - All calculations assume water/steam as the working fluid in a closed loop.
@@ -24,35 +23,44 @@ This page is written for engineers and technical reviewers who want to understan
 ## Core Per-Section Formulas
 
 ### 1. Steam Mass Flow from Heat Input
-  m_steam (kg/s) = (Q_heat × 1000) / h_fg
-Where:
-- `Q_heat` = Heat input to the section (MWth)
-- `h_fg` = Latent heat of vaporization (kJ/kg)
+$$
+m_{\text{steam}} (\text{kg/s}) = \frac{Q_{\text{heat}} \times 1000}{h_{fg}}
+$$
 
-**Example**: At 10 MWth → ≈ 4.42 kg/s steam
+Where:
+- $Q_{\text{heat}}$ = Heat input to the section (MWth)
+- $h_{fg}$ = Latent heat of vaporization (kJ/kg)
 
 ### 2. Hydro Power (Gravity + Flow)
-  P_hydro (MW) = (ρ × g × Q × h × η_hydro × η_gen) / 1,000,000
-Where:
-- `ρ` = 1000 kg/m³
-- `g` = 9.81 m/s²
-- `Q` = Volumetric flow rate (m³/s) — derived from condensed steam + recirculation
-- `h` = Vertical head (22.86 m)
-- `η_hydro` = Hydro sleeve efficiency
-- `η_gen` = Generator + drive efficiency
+$$
+P_{\text{hydro}} (\text{MW}) = \frac{\rho \times g \times Q \times h \times \eta_{\text{hydro}} \times \eta_{\text{gen}}}{1,000,000}
+$$
 
-The canal narrowing (2 m → 1.75 m) is expected to increase velocity and torque on the sleeve. Real-world gain will depend on testing.
+Where:
+- $\rho$ = 1000 kg/m³
+- $g$ = 9.81 m/s²
+- $Q$ = Volumetric flow rate (m³/s) — derived from condensed steam + recirculation
+- $h$ = Vertical head (22.86 m)
+- $\eta_{\text{hydro}}$ = Hydro sleeve efficiency
+- $\eta_{\text{gen}}$ = Generator + drive efficiency
+
+The canal narrowing (2 m → 1.75 m) is expected to increase velocity and torque on the sleeve.
 
 ### 3. Steam Power
-  P_steam (MW) ≈ m_steam × Δh × η_steam × η_gen / 1000
-Where `Δh` is the effective enthalpy drop / kinetic energy available in the rising vapor (highly dependent on pressure, temperature, and steam quality).
+$$
+P_{\text{steam}} (\text{MW}) \approx m_{\text{steam}} \times \Delta h \times \eta_{\text{steam}} \times \eta_{\text{gen}} / 1000
+$$
+
+Where $\Delta h$ is the effective enthalpy drop or kinetic energy available in the rising vapor.
 
 ### 4. Total Electric Output per Section
-  P_total (MW) ≈ P_hydro + P_steam
+$$
+P_{\text{total}} (\text{MW}) \approx P_{\text{hydro}} + P_{\text{steam}}
+$$
 
 ## System-Level Example: 400 MWth Total Captured Heat
 
-This scenario combines low-pressure steam from a large coal plant (Plant Bowen) + waste heat from a data center, solar, battery parks, and H₂ boost.
+This scenario combines low-pressure steam from Plant Bowen + waste heat from a data center, solar, battery parks, and H₂ boost.
 
 **Conservative Case**
 - Sections required: ~50–65
@@ -112,10 +120,10 @@ These calculations are conceptual and order-of-magnitude. Real values will be af
 - CFD of sleeve performance and transition zones
 - Small-scale physical prototype
 
----
+## How to Use & Modify These Calculations
+All formulas and assumptions are explicit. Engineers are encouraged to adjust any variable (efficiency, heat input, head, etc.) and recalculate. The structure is designed to make such modifications straightforward.
 
-**How to Use This Document**  
-Engineers are encouraged to adjust any variable (efficiency, heat input, head, etc.) and recalculate. The structure is designed to make such modifications straightforward. Cross-reference with the worked examples in the Power Integration section for context.
+**Cross-reference** with the worked examples in the Power Integration section for context.
 
 *Last major update: Based on detailed scenario modeling (Plant Bowen 400 MWth case and per-section analysis).*
 
