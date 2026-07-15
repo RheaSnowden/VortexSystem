@@ -1,3 +1,4 @@
+
 # VORTEX Calculations & Quantitative Analysis
 
 **Purpose**: This document is the central, transparent reference for all quantitative estimates in the VORTEX repository. Any number appearing in other documents should be traceable back to the formulas, assumptions, and reasoning presented here.
@@ -46,14 +47,27 @@ Where:
 
 The canal narrowing (2 m → 1.75 m) is expected to increase velocity and torque on the sleeve.
 
-### 3. Steam Power
+### 3. Friction Head Loss (Simplified Darcy-Weisbach)
+$$
+\Delta h_{\text{friction}} \approx f \times \frac{L}{D} \times \frac{v^2}{2g}
+$$
+
+Where:
+- $f$ = Darcy friction factor
+- $L$ = Length of section
+- $D$ = Hydraulic diameter
+- $v$ = Flow velocity
+
+This helps engineers compare frictional losses against the available driving head.
+
+### 4. Steam Power
 $$
 P_{\text{steam}} (\text{MW}) \approx m_{\text{steam}} \times \Delta h \times \eta_{\text{steam}} \times \eta_{\text{gen}} / 1000
 $$
 
 Where $\Delta h$ is the effective enthalpy drop or kinetic energy available in the rising vapor.
 
-### 4. Total Electric Output per Section
+### 5. Total Electric Output per Section
 $$
 P_{\text{total}} (\text{MW}) \approx P_{\text{hydro}} + P_{\text{steam}}
 $$
@@ -108,7 +122,9 @@ Limited by:
 At very high heat fluxes, additional tunnels become preferable to overloading a single loop.
 
 ## Uncertainties & Future Refinement
-These calculations are conceptual and order-of-magnitude. Real values will be affected by:
+
+These are priority areas for deeper analysis as the project matures. The calculations above are conceptual and order-of-magnitude. Real values will be affected by:
+
 - Actual sleeve efficiencies (requires testing or high-fidelity CFD)
 - Two-phase flow behavior in inclined tunnels
 - Heat transfer coefficients in stepped basins
@@ -124,6 +140,13 @@ These calculations are conceptual and order-of-magnitude. Real values will be af
 All formulas and assumptions are explicit. Engineers are encouraged to adjust any variable (efficiency, heat input, head, etc.) and recalculate. The structure is designed to make such modifications straightforward.
 
 **Cross-reference** with the worked examples in the Power Integration section for context.
+
+## References & Further Reading
+- Thermosiphon and two-phase flow in inclined channels
+- Waste heat recovery systems (ORC benchmarks and performance data)
+- Low-head hydro turbine performance and efficiency curves
+- Heat pipe and passive cooling literature
+- Two-phase flow stability and pressure drop studies
 
 *Last major update: Based on detailed scenario modeling (Plant Bowen 400 MWth case and per-section analysis).*
 
