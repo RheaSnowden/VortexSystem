@@ -15,18 +15,23 @@ The modular design aims to support **nonstop operation** with no requirement for
 
 - **Reservoir Origin Flow**: Backup control feeds or redirect paths can be used to maintain flow during maintenance on the upper reservoir origin area.
 
-- **Thermal Piping**: Similar backup piping or bypass loops can be designed so that thermal fluid flow can be maintained during segment isolation.
+- **Thermal Piping**: Similar backup piping or bypass loops can be designed so that thermal fluid flow can be maintained during segment isolation. Under-canal heat piping can be cooled by a return thermal pipe, which picks up heat on its way back to the hot reserve.
 
 Because the system operates at relatively low pressure (gravity-driven liquid flow and moderate steam pressure), temporary large-diameter “hose” routing is feasible for short-term flow maintenance if needed.
 
 In general, most components inside the tunnel can be serviced or replaced without fully disrupting overall flow. The only true full stop would be an intentional system shutdown.
 
+## Additional Maintenance Options
+- **Automated Assistance**: Rail-mounted mechanical arms could be designed for certain replacement or inspection tasks, depending on the tunnel method chosen. This could be worth the investment for high-availability installations.
+- **Catwalk Systems**: Metal catwalks with good-grip mesh flooring could run from center pillar to pillar. Further consideration is needed for safe access to lower canal systems (sensors, valves, mechanical controls). Upper catwalks for steam sleeves could be retractable to minimize airflow disruption at the hydro levels.
+
 ## Safety-Minded Design Considerations
 The following are examples of risk-reduction thinking built into the concept. They are not formal safety standards.
 
+- **Airlock Access**: Open/close two-door airlock systems could be used for controlled entry into pressurized or steam-containing sections.
 - **Reduced High-Pressure Exposure**: Steam harvesting occurs in upper sections; lower sections primarily handle liquid water flow.
 - **Containment & Overflow Management**: Stepped basins and overflow returns help manage water levels and reduce spill risk.
-- **Access & Egress**: Rail system and catwalks designed for safe personnel movement; emergency shutoff valves at strategic points.
+- **Access & Egress**: Rail system, catwalks, and emergency shutoff valves at strategic points.
 - **Material & Corrosion Considerations**: Selection of corrosion-resistant materials for long-term wet/steam environments (conceptual only — requires engineering validation).
 - **Fail-Safe Features**: Redundant flow paths in looped configurations and automatic level control in basins.
 
