@@ -23,7 +23,7 @@ In general, most components inside the tunnel can be serviced or replaced withou
 
 ## Additional Maintenance Options
 - **Automated Assistance**: Rail-mounted mechanical arms could be designed for certain replacement or inspection tasks, depending on the tunnel method chosen. This could be worth the investment for high-availability installations.
-- **Catwalk Systems**: Metal catwalks with good-grip mesh flooring could run from center pillar to pillar. Further consideration is needed for safe access to lower canal systems (sensors, valves, mechanical controls). Upper catwalks for steam sleeves could be retractable to minimize airflow disruption at the hydro levels.
+- **Catwalk Systems**: Metal catwalks with good-grip mesh flooring could run from center pillar to pillar. Further consideration is needed for safe access to lower canal systems (sensors, valves, mechanical controls). Upper catwalks for steam sleeves could be retractable to minimize airflow disruption at the steam levels.
 
 ## Safety-Minded Design Considerations
 The following are examples of risk-reduction thinking built into the concept. They are not formal safety standards.
