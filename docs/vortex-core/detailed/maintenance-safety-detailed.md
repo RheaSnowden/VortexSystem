@@ -38,3 +38,8 @@ The following are examples of risk-reduction thinking built into the concept. Th
 **Important Disclaimer**: These are conceptual ideas only. Any real project must perform comprehensive hazard and operability (HAZOP) studies, pressure vessel assessments, structural analysis, and full regulatory compliance. The designers of this concept do not assume liability for implementation.
 
 For component-specific details, see the individual sleeve, canal-basin, and tunnel pages.
+
+---
+**Previous**: [Maintenance-safety](../maintenance-safety.md)  
+**Index**: [Index](../../../Index.md)  
+**Next**: [Conclussion] :to be added.
