@@ -69,12 +69,18 @@ This repository is intended as an **inspirational resource** that will be refine
 - `research/` — Supporting references and calculations (growing)
 - `Index.md` — Full navigation hub for all documents
 
-## How to Engage
-- Read the documents and share your thoughts (Issues or Discussions)
-- Suggest improvements or new angles
-- Fork and adapt the concepts for your own work
-- Contribute to existing documents or help expand the research section
+## How to Engage & Contribute (No Money Required!)
 
+VORTEX is an open conceptual playground — collaboration is the best support.
+
+- **Discussions** → Ask questions, share related research, brainstorm applications (preferred for open conversation).
+- **Issues** → Report unclear sections, suggest improvements, or propose new components.
+- **Fork + Branch** → Adapt ideas for your own work (highly encouraged!).
+- **Pull Requests** → Improve docs, add references, fix typos, expand research, or contribute new diagrams/concepts.
+- **Spread the word** → Share on forums, with engineers, or space/sustainability communities.
+- **Direct feedback** → Email: vortexsystemhub@proton.me
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details. 
 All contributions are welcome under the [Apache License 2.0](LICENSE).
 
 ---
