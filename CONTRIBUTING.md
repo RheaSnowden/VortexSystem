@@ -26,4 +26,10 @@ There is no formal review process yet — contributions will be reviewed as time
 
 ## Donations / Sponsorship (Optional)
 
-If you find value in these concepts and would like to support further development (time, tools, or experiments), you can sponsor the project via [GitHub Sponsors](https://github.com/sponsors/RheaSnowden) (once set up) or other platforms. All support is greatly appreciated but never expected.
+If you find value in these concepts and would like to support further development (time, tools, diagrams, or experiments), you can:
+
+- [GitHub Sponsors](https://github.com/sponsors/RheaSnowden)
+- [Buy Me a Coffee](https://buymeacoffee.com/rheasnowden)
+- [Ko-fi](https://ko-fi.com/rheasnowden)
+
+Every contribution helps keep this open exploration growing. However, **non-financial contributions** (feedback, ideas, documentation, forks, etc.) are equally valued and often more impactful.
