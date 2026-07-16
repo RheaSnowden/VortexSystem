@@ -9,6 +9,15 @@ VORTEX is not a finished engineering design, prototype, or commercial proposal. 
 
 ---
 
+## Support / Tip Jar
+
+If you find this useful, consider buying me a coffee! ☕
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4)](https://github.com/sponsors/Rheasnowden)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/RheaSnowden)
+
+---
+
 ## How to Explore This Repository (Guided Tour)
 
 The documentation is organized in **layers of depth** so you can choose how far you want to go:
