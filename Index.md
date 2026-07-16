@@ -35,7 +35,7 @@ This is the complete navigation hub for the project. Documents are grouped by **
 
 **Repository-wide links**
 - [LICENSE](../LICENSE) (Apache 2.0)
-- [CONTRIBUTING](docs/CONTRIBUTING.md) (coming soon)
+- [CONTRIBUTING](docs/CONTRIBUTING.md) 
 - Back to [README](README.md)
 
 Feel free to open Issues or Discussions with questions, suggestions, or new ideas!
