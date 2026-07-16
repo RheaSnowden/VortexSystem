@@ -73,6 +73,7 @@ Quick options usually include $1–$5 + custom. All support is deeply appreciate
 ## How to Engage & Contribute (No Money Required!)
 
 VORTEX is an open conceptual playground — collaboration is the best support.
+  Read the documents and share your thoughts (**Discussions** preferred for open conversation, **Issues** for specific suggestions)
 
 - **Discussions** → Ask questions, share related research, brainstorm applications (preferred for open conversation).
 - **Issues** → Report unclear sections, suggest improvements, or propose new components.
